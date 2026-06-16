@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Moprius"
+            }
+        ],
+        "Name": "Plasma-ToDo",
+        "Id": "Plasma-ToDo",
+        "Description": "Lista de tarefas com subtarefas, pesquisa instantânea, fixação no topo, reorganização por arrastar e textos em Markdown integrada à Área de Notificação do Plasma 6",
+        "Category": "Utilities",
+        "Icon": "checkbox",
+        "EnabledByDefault": true,
+        "License": "GPL-3.0+",
+        "Version": "1.5.0",
+        "Website": "https://github.com/moprius/plasma-todo"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "ApplicationStatus"
+}
